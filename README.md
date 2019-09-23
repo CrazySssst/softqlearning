@@ -10,7 +10,7 @@ Soft Q-learning can be run either locally or through Docker.
 ## Prerequisites
 
 You will need to have [Docker](https://docs.docker.com/engine/installation/) and [Docker Compose](https://docs.docker.com/compose/install/) installed unless you want to run the environment locally.
-
+aaa
 Most of the models require a [MuJoCo](https://www.roboti.us/license.html) license.
 
 ## Docker Installation
